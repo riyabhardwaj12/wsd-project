@@ -46,5 +46,5 @@ echo $words[$i];
 echo " ";
 }     //6000 if
 }   //for loop
-} //last for loop
+echo ".";} //last for loop
 ?>";
